@@ -4,7 +4,7 @@
 <div id="top"></div>
 
 
-<h3 align="center">Country app</h3>
+<h3 align="center">Amali costomer landing page app</h3>
 
   <p align="center">
     Amalitech customer landing page is a proof of concept showing how we can view all activities done on our site.
